@@ -6,7 +6,7 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm a grade 12,High School Student.
+- 🏫: I'm a grade 12,Senior HighSchool Student.
 - 🔭: I’m currently working on Open Source projects.
 - 🌱: I’m currently learning Open Source projects and Deep Learning. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
@@ -23,8 +23,10 @@
     <a href="https://t.me/AbhinavVermabest" target="blank"><img align="center"
            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyorixxsGXZOJpTLjrsUfPIMKUgr8F-jaV0w&usqp=CAU" alt="telegram" width="100px" /></a>
 </p>
+
 <Br>
 <hr>
+
 
 <h1>GitHub Stats! 📊</h1>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
@@ -33,6 +35,7 @@
 [![abhinavftp98 github stats](https://github-readme-stats.vercel.app/api?username=abhinavftp98&show_icons=true&theme=merko)](https://github.com/abhinavftp98/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavftp98&layout=compact&theme=merko)](https://github.com/abhinavftp98/github-readme-stats)
 
  
+
 <Br>
 <hr>
 <Br>
