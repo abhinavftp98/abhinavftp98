@@ -20,7 +20,7 @@ how can you reach me!
 </p>
     <a href="https://www.telegram.com/AbhinavVermabest/" target="blank"><img align="center"
             src="https://p.kindpng.com/picc/s/743-7436016_circle-hd-png-download.png" alt="instagram" height="40"
-            width="40" /></a>
+            width="60" /></a>
 
 <h1>GitHub Stats! 📊</h1>
 <Br>
