@@ -27,11 +27,11 @@
 <Br>
 <hr>
 
-<p align="center">
+
 <h1>GitHub Stats! 📊</h1>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 <Br>
- </p>
+
 
 [![abhinavftp98 github stats](https://github-readme-stats.vercel.app/api?username=abhinavftp98&show_icons=true&theme=merko)](https://github.com/abhinavftp98/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavftp98&layout=compact&theme=merko)](https://github.com/abhinavftp98/github-readme-stats)
 
