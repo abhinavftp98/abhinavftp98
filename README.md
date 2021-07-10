@@ -38,15 +38,7 @@
 
 <Br>
 <hr>
-<Br>
-<h1>A Little Joke at the End! 🤣</h1>
-<Br>
-  
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXp4NxR3llrtKw_WoUnit0RnjYi3gTzf0Psg&usqp=CAU"/>
-  
-<Br>
-<hr>
-<Br>
+
 <h1>Thank You! 🤵 </h1>
 <Br>
 
