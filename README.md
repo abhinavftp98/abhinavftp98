@@ -30,7 +30,7 @@ how can you reach me!
 <h1>A Little Joke at the End! 🤣</h1>
 <Br>
   
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQubvNd37UCZeDQciALYetAYx6NhXgQ3J9ctw&usqp=CAU"/>  
+<img src="https://t.me/AbhinavVermabest"/>  
   
 <Br>
 <hr>
