@@ -16,7 +16,7 @@
 <Br>
 <hr>
 how can you reach me!
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyorixxsGXZOJpTLjrsUfPIMKUgr8F-jaV0w&usqp=CAU" width="60px"/>
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyorixxsGXZOJpTLjrsUfPIMKUgr8F-jaV0w&usqp=CAU" width="60px"/>](https://t.me/Realme2andc1help)
 
 <h1>GitHub Stats! 📊</h1>
 <Br>
@@ -30,7 +30,7 @@ how can you reach me!
 <h1>A Little Joke at the End! 🤣</h1>
 <Br>
   
-[<img src="https://t.me/AbhinavVermabest"/>](https://t.me/Realme2andc1help)
+[<img src="https://t.me/AbhinavVermabest"/>]()
   
 <Br>
 <hr>
