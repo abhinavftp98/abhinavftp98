@@ -18,8 +18,7 @@
 how can you reach me!
 <a href="mailto: abhinavftp98@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/abhinavftp98@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;      
 </p>
-<a href="mailto: https://t.me/AbhinavVermabest" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Lb3_gr8jQkzpyjGpSvnst2BRIHc2aBVjHg&usqp=CAU" /></a>    &nbsp;&nbsp;&nbsp;      
-</p>
+
 
 <h1>GitHub Stats! 📊</h1>
 <Br>
