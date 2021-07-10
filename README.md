@@ -15,11 +15,11 @@
   
 <Br>
 <hr>
-how can you reach me!
+How can you reach me!
 <a href="mailto: abhinavftp98@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/abhinavftp98@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;      
 </p>
     <a href="https://t.me/AbhinavVermabest" target="blank"><img align="center"
-            src="https://p.kindpng.com/picc/s/743-7436016_circle-hd-png-download.png" alt="instagram" height="40"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyorixxsGXZOJpTLjrsUfPIMKUgr8F-jaV0w&usqp=CAU" alt="instagram" height="40"
             width="80" /></a>
 
 <h1>GitHub Stats! 📊</h1>
