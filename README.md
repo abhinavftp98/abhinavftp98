@@ -27,19 +27,6 @@
 <Br>
 <hr>
 
-
-<h1>GitHub Stats! 📊</h1>
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-<Br>
-
-
-[!(https://github.com/abhinavftp98/github-readme-stats)[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavftp98&layout=compact&theme=merko)](https://github.com/abhinavftp98/github-readme-stats)[abhinavftp98 github stats](https://github-readme-stats.vercel.app/api?username=abhinavftp98&show_icons=true&theme=merko)]
-
- 
-
-<Br>
-<hr>
-
 <h1>Thank You! 🤵 </h1>
 <Br>
 
