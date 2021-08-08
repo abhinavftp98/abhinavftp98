@@ -4,17 +4,6 @@
 <hr>
 <h1 align="center">I'm <a href="https://github.com/abhinavftp98">Abhinav Verma<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
-<h1>About Me! 😎</h1>
-
-- 🏫: I'm a grade 12,Senior HighSchool Student.
-- 🔭: I’m currently working on Open Source projects.
-- 🌱: I’m currently learning Open Source projects and Deep Learning. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 😄  Pronouns: He/His
-- ⚡  Fun fact: I like to play Cricket 🏏
-  
-<Br>
-<hr>
 <h1>How can you reach me!</h1>
 <p align="center">
 <a href="mailto: abhinavftp98@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/abhinavftp98@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;      
