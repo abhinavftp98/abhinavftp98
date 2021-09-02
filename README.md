@@ -9,7 +9,7 @@
            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyorixxsGXZOJpTLjrsUfPIMKUgr8F-jaV0w&usqp=CAU" alt="telegram" width="100px" /></a>
 </p>
 <hr>
-<h1 align="center">Thank You! 🤵 </h1>
+<h1>Thank You! 🤵 </h1>
 ------
     
 Credit: [Abhinav Verma](https://github.com/abhinavftp98)
