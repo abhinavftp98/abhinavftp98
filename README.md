@@ -1,6 +1,4 @@
-<p align="center">
 <h1 align="center">I'm <a href="https://github.com/abhinavftp98">Abhinav Verma<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
-</p>
 <h1 align="center">How can you reach me!
 </h1>
 <p align="center">
