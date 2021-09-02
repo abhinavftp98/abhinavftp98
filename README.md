@@ -1,5 +1,4 @@
 <p align="center">
-#<img src="https://i.pinimg.com/originals/7c/ac/53/7cac53b96635b5ad0684f99d95de1bbf.gif" width="360px"/>
 <h1 align="center">I'm <a href="https://github.com/abhinavftp98">Abhinav Verma<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 </p>
 <h1 align="center">How can you reach me!
