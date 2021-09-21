@@ -1,4 +1,4 @@
-<img src=http://clipart-library.com/image_gallery/n1582545.gif"
+<img src=http://clipart-library.com/image_gallery/n1582545.gif" />
 <h1>I'm <a href="https://github.com/abhinavftp98">Abhinav Verma<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <h1>How to reach me!
 </h1>
