@@ -1,4 +1,4 @@
-<h1>I'm <a href="https://github.com/abhinavftp98">Abhinav Verma<a> src="https://gifer.com/embed/WtpU" width=480 height=480.000 frameBorder="0" allowFullScreen></><p><a href="https://gifer.com">via GIFER</a></p></h1>
+<h1>I'm <a href="https://github.com/abhinavftp98">Abhinav Verma<a> </a></p></h1>
 <h1>How to reach me!
 </h1>
 <p>
