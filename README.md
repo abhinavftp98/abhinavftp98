@@ -1,4 +1,4 @@
-<h1>I'm <a href="https://github.com/abhinavftp98">Abhinav Verma<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1>I'm <a href="https://github.com/abhinavftp98">Abhinav Verma<a><img src="http://clipart-library.com/image_gallery/n1582545.gif" width="60px"/><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <h1>How to reach me!
 </h1>
 <p>
