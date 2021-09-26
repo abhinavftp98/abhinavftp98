@@ -10,7 +10,6 @@
 </p>
 <hr>
 <h1>Thank You! 🤵 </h1>
-------
     
 ![](https://komarev.com/ghpvc/?username=abhinavftp98&color=f7022a)
 
