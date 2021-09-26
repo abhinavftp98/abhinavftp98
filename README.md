@@ -12,7 +12,6 @@
 <h1>Thank You! 🤵 </h1>
 ------
     
-Credit: [Abhinav Verma](https://github.com/abhinavftp98)
-Last Edited on: 21/09/2021
+![](https://komarev.com/ghpvc/?username=abhinavftp98&color=f7022a)
 
 
