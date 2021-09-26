@@ -6,7 +6,7 @@
 </p>
 <p>
     <a href="https://t.me/AbhinavVermabest" target="blank"><img align="center"
-           src="https://www.drupal.org/files/project-images/telegram-logo-11.png" alt="telegram" width="100px" /></a>
+           src="https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png" alt="telegram" width="100px" /></a>
 </p>
 <hr>
 <h1>Thank You! 🤵 </h1>
